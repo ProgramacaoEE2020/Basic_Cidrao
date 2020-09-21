@@ -13,7 +13,7 @@
 
 ![Screenshot](https://github.com/ProgramacaoEE2020/Basic_Cidrao/tree/master/README%20files/screenshot.png)
 
-![Sourcecode](https://github.com/ProgramacaoEE2020/Basic_Cidrao/tree/master/README%20files/sourcecode.pdf)
+![Sourcecode](https://github.com/ProgramacaoEE2020/Basic_Cidrao/blob/master/README%20files/pseudocode.pdf)
 
 
 

@@ -11,9 +11,9 @@
  
 * Referências
 
-![Screenshot](https://github.com/ProgramacaoEE2020/Basic_Cidrao/tree/master/README%20files/screenshot.png)
+![Screenshot](https://github.com/ProgramacaoEE2020/Basic_Cidrao/blob/master/README%20files/screenshoot.png)
 
-![Sourcecode](https://github.com/ProgramacaoEE2020/Basic_Cidrao/blob/master/README%20files/pseudocode.pdf)
+![Pseudocode](https://github.com/ProgramacaoEE2020/Basic_Cidrao/blob/master/README%20files/pseudocode.pdf)
 
 
 
